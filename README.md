@@ -1,0 +1,3 @@
+# Homebrew-triv
+
+Trivial formulas
