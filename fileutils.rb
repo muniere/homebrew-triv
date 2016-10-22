@@ -1,9 +1,9 @@
-class Farrange < Formula
+class Fileutils < Formula
   desc "Utility commands to arrange files"
-  homepage "https://github.com/muniere/farrange"
-  url "https://github.com/muniere/farrange/archive/v0.1.0.tar.gz"
-  sha256 "d22d1dfd251e95aa1422e6ac57420c487e36ed5b7bde5795d4cb070f35388175"
-  head "https://github.com/muniere/farrange.git"
+  homepage "https://github.com/muniere/fileutils"
+  url "https://github.com/muniere/fileutils/archive/v0.2.0.tar.gz"
+  sha256 "e1bccbab6824388a7bde1c428aef8db7f2977d003dcd782afc211a908bbf48a4"
+  head "https://github.com/muniere/fileutils.git"
 
   depends_on "crystal-lang"
 
