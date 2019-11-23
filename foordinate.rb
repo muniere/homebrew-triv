@@ -1,9 +1,9 @@
-class Fileutils < Formula
+class Foordinate < Formula
   desc "Utility commands to arrange files"
-  homepage "https://github.com/muniere/fileutils"
-  url "https://github.com/muniere/fileutils/archive/v0.2.0.tar.gz"
-  sha256 "e1bccbab6824388a7bde1c428aef8db7f2977d003dcd782afc211a908bbf48a4"
-  head "https://github.com/muniere/fileutils.git"
+  homepage "https://github.com/muniere/foordinate"
+  url "https://github.com/muniere/foordinate/archive/v0.3.0.tar.gz"
+  sha256 "eff6135016472fdf41c1b5429bef7d3a0d3a4906d7a0126d17807e5fb6a20e64"
+  head "https://github.com/muniere/foordinate.git"
 
   depends_on "crystal-lang"
 
